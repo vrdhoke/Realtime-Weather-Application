@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![HitCount](http://hits.dwyl.com/vdhoke/Realtime-Weather-Application.svg)](http://hits.dwyl.com/vdhoke/Realtime-Weather-Application)
 
 ## Available Scripts
 
